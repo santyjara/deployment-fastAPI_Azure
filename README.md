@@ -12,7 +12,7 @@ This is an example of how to deploy a maching learning model using Scikit-learn,
 4. Train the model and save it `python modelling/train.p`
 5. Run the unvicorn server `uvicorn app.main:app --reload`
 
-or
+Or
 
 Run `sh start.sh`
 

@@ -4,3 +4,6 @@ fastapi
 uvicorn
 pydantic
 black
+numpy
+matplotlib
+joblib

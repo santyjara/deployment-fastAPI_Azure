@@ -12,6 +12,10 @@ This is an example of how to deploy a maching learning model using Scikit-learn,
 4. Train the model and save it `python modelling/train.p`
 5. Run the unvicorn server `uvicorn app.main:app --reload`
 
+or
+
+Run `sh start.sh`
+
 ## On Microsoft Azure
 
 1. Create a `start.sh` file and put there all the commands you want to run
